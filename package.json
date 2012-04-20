@@ -1,0 +1,10 @@
+{ "name": "markdown-server"
+, "description": "Display markdown files in the browser."
+, "version": "0.0.1"
+, "authors": [ "alice <blcuydy@gmail.com>" ]
+, "private": true
+, "main": "./markdown-server.js"
+, "dependencies": 
+  { "github-flavored-markdown": ""
+  }
+}
