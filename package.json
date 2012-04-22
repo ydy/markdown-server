@@ -1,8 +1,7 @@
 { "name": "markdown-server"
 , "description": "Display markdown files in the browser."
 , "version": "0.0.1"
-, "authors": [ "alice <blcuydy@gmail.com>" ]
-, "private": true
+, "authors": [ "Alice <blcuydy+git@gmail.com>" ]
 , "main": "./markdown-server.js"
 , "bin": {"mdserver": "cli.js"}
 , "dependencies": 
