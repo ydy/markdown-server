@@ -4,6 +4,7 @@
 , "authors": [ "alice <blcuydy@gmail.com>" ]
 , "private": true
 , "main": "./markdown-server.js"
+, "bin": {"mdserver": "cli.js"}
 , "dependencies": 
   { "github-flavored-markdown": ""
   }
